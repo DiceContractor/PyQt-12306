@@ -3,5 +3,7 @@
 
 使用工具：PySide6
 
-<picture> <img alt="YOUR-ALT-TEXT" src="PyQt图形界面-12306退改费查询-退票.gif" align="left" width=600></picture>
-<picture> <img alt="YOUR-ALT-TEXT" src="PyQt图形界面-12306退改费查询-改票.gif" align="left" width=600></picture>
+<div align="center">
+  <picture> <img alt="YOUR-ALT-TEXT" src="PyQt图形界面-12306退改费查询-退票.gif" width=800></picture>
+  <picture> <img alt="YOUR-ALT-TEXT" src="PyQt图形界面-12306退改费查询-改票.gif" width=800></picture>
+</div>
